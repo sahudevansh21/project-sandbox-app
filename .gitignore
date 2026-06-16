@@ -1,0 +1,9 @@
+# See https://nextjs.org/docs/basic-features/gitignore for more info.
+
+.next/
+node_modules/
+.env.local
+.env
+.DS_Store
+*.pem
+out/
